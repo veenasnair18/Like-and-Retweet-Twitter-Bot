@@ -16,7 +16,7 @@ api = tweepy.API(auth,wait_on_rate_limit=True,wait_on_rate_limit_notify=True)
 
 user = api.me()
 
-search = "Sessriniscanon"
+search = "Python"
 
 notweets=10
 
